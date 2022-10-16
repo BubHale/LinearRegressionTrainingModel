@@ -1,7 +1,6 @@
 Author: Samuel Hale
 Creation Date: 10/16/22
-Purpose: Given a matrix of input data and a matrix of target data train a Linear Regression model on how to predict some target
-data only given input data using gradient descent.
+Purpose: Given a matrix of input data and a matrix of target data train a Linear Regression model on how to predict some target data only given input data using gradient descent.
 
 ---------------------------------------
 NOTES ON THIS CODE
